@@ -8,5 +8,5 @@ Developed an advanced VBA-based solution to automate data analysis and generate 
 - Ensured data accuracy with robust validation methods
 - Improved reporting quality for better decision-making
 - Applied data visualization for clearer insights
-- [Watch now short version](https://www.youtube.com/watch?v=cCcszP6yrXk)
-- [Watch now long version](https://www.youtube.com/watch?v=MBsWV1eVafQ&t=3s)
+- [Watch short version](https://www.youtube.com/watch?v=cCcszP6yrXk)
+- [Watch long version](https://www.youtube.com/watch?v=MBsWV1eVafQ&t=3s)

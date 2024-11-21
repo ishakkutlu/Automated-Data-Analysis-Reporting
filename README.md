@@ -1,5 +1,12 @@
-# Consignment Statistics Module
+# Automated Data Analysis & Reporting Through VBA
 
-Coded an efficient implementation that effectuates a Word report by robotically executing functions such as visualizing and analyzing data, calculating various statistics and writing text, and lessening the course of action, needing about 16 hours of labor, around 10 minutes. The module has been made available to the relevant unit of the organization since June 2018, after all tests have been successfully completed.
+Developed an advanced VBA-based solution to automate data analysis and generate comprehensive statistical reports with data visualization. Leveraged data processing techniques, feature engineering, and rigorous data validation to significantly improve efficiency and accuracy.
 
-https://www.youtube.com/watch?v=cCcszP6yrXk
+## Key Highlights:
+
+- Reduced manual effort from 16 hours to 10 minutes monthly
+- Ensured data accuracy with robust validation methods
+- Improved reporting quality for better decision-making
+- Applied data visualization for clearer insights
+- [Watch now short version](https://www.youtube.com/watch?v=cCcszP6yrXk)
+- [Watch now long version](https://www.youtube.com/watch?v=MBsWV1eVafQ&t=3s)

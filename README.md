@@ -1,6 +1,6 @@
 # Automated Data Analysis & Reporting Through VBA
 
-Developed an advanced VBA-based solution to automate data analysis and generate comprehensive statistical reports with data visualization. Leveraged data processing techniques, feature engineering, and rigorous data validation to significantly improve efficiency and accuracy.
+Developed an advanced VBA-based solution to automate data analysis and generate comprehensive statistical reports with data visualization. Leveraged data processing techniques, feature engineering, and rigorous data validation to significantly improve efficiency and accuracy. 
 
 ## Key Highlights:
 

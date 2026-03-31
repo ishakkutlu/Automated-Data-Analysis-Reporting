@@ -10,4 +10,4 @@ Developed an advanced VBA-based solution to automate data analysis and generate 
 - Applied data visualization for clearer insights
 - [Watch short version](https://www.youtube.com/watch?v=cCcszP6yrXk)
 - [Watch long version](https://www.youtube.com/watch?v=MBsWV1eVafQ&t=3s)
-- [Access details](https://ishakkutlu.com/sablon-tabanli-belge-otomasyon-modulu/)
+- [Access details](https://ishakkutlu.com/veri-analizi-ve-raporlama-modulu/)
